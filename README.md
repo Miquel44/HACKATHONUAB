@@ -1,6 +1,29 @@
 
 # HACKATHONUAB
+Presentación del Proyecto: Reto "Caronte" 📊
+Hackathon UAB
 
+Este repositorio contiene nuestro proyecto para el Hackathon UAB, donde aceptamos el Reto Caronte. En este desafío, desarrollamos modelos predictivos y herramientas de análisis diseñadas para mejorar el rendimiento académico de los estudiantes mediante datos extraídos de Moodle.
+🎯 Objetivo del Proyecto
+
+Nuestro objetivo en el reto de Caronte es desarrollar modelos que:
+
+    Predigan las notas finales de los estudiantes.
+    Recomienden actividades de refuerzo personalizadas.
+    Analicen patrones de estudio y rendimiento académico, generando insights que permitan mejorar la experiencia de aprendizaje.
+
+🔍 Datos Utilizados
+
+Para lograr estos objetivos, trabajamos con un conjunto de datos que incluye:
+
+    Actividades de Moodle: Registro de actividades, fechas de inicio y finalización, y notas máximas.
+    Notas: Calificaciones parciales, finales y recuperaciones.
+    Tramesas: Información sobre entregas, evaluaciones e intentos de los estudiantes.
+
+Todos estos datos están disponibles en el archivo ZIP proporcionado por los organizadores del hackathon.
+Estructura del Proyecto
+
+La estructura de nuestro proyecto es la siguiente:
 ## data_massage.ipynb
 
 ### Descripción
