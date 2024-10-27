@@ -1,5 +1,5 @@
 # HACKATHONUAB
-Presentación del Proyecto: Reto "Caronte" 📊
+### Presentación del Proyecto: Reto "Caronte" 📊
 Hackathon UAB
 
 Este repositorio contiene nuestro proyecto para el Hackathon UAB, donde aceptamos el Reto Caronte. En este desafío, desarrollamos modelos predictivos y herramientas de análisis diseñadas para mejorar el rendimiento académico de los estudiantes mediante datos extraídos de Moodle.
