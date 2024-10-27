@@ -1,5 +1,4 @@
-
-# HACKATHONUAB
+HACKATHONUAB
 Presentación del Proyecto: Reto "Caronte" 📊
 Hackathon UAB
 
@@ -21,9 +20,6 @@ Para lograr estos objetivos, trabajamos con un conjunto de datos que incluye:
     Tramesas: Información sobre entregas, evaluaciones e intentos de los estudiantes.
 
 Todos estos datos están disponibles en el archivo ZIP proporcionado por los organizadores del hackathon.
-Estructura del Proyecto
-
-La estructura de nuestro proyecto es la siguiente:
 ## data_massage.ipynb
 
 ### Descripción
